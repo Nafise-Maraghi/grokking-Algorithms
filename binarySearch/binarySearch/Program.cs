@@ -1,4 +1,4 @@
-﻿static int binarySearch(int item, int[] numbers)
+﻿static int BinarySearch(int item, int[] numbers)
 {
 	int low = 0;
 	int high = numbers.Length - 1;
@@ -25,5 +25,5 @@
 }
 
 
-Console.WriteLine(binarySearch(43, Enumerable.Range(0, 100).ToArray())); // 43
-Console.WriteLine(binarySearch(12, Enumerable.Range(1, 10).ToArray())); // -1
+Console.WriteLine(BinarySearch(43, Enumerable.Range(0, 100).ToArray())); // 43
+Console.WriteLine(BinarySearch(12, Enumerable.Range(1, 10).ToArray())); // -1
