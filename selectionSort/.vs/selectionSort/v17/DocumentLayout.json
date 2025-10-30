@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\selectionSort\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\grokking Algorithms\\selectionSort\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECCE8729-7ABC-44FD-AFFA-063BBE66CA63}|selectionSort\\selectionSort.csproj|c:\\users\\administrator\\source\\repos\\selectionsort\\selectionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECCE8729-7ABC-44FD-AFFA-063BBE66CA63}|selectionSort\\selectionSort.csproj|c:\\users\\administrator\\source\\repos\\grokking algorithms\\selectionsort\\selectionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECCE8729-7ABC-44FD-AFFA-063BBE66CA63}|selectionSort\\selectionSort.csproj|solutionrelative:selectionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\selectionSort\\selectionSort\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\grokking Algorithms\\selectionSort\\selectionSort\\Program.cs",
               "RelativeDocumentMoniker": "selectionSort\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\selectionSort\\selectionSort\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\grokking Algorithms\\selectionSort\\selectionSort\\Program.cs",
               "RelativeToolTip": "selectionSort\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-25T17:14:07.536Z",
               "EditorCaption": ""
