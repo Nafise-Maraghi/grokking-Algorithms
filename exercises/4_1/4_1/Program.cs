@@ -8,4 +8,4 @@
 }
 
 
-RecursiveSum(new int[] { 1, 3, 5, 2}); // 11
+RecursiveSum(new int[] { 1, 3, 5, 2 }); // 11
